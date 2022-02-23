@@ -1,0 +1,17 @@
+header{
+    background-color:rgb(68, 59, 97);
+    color:rgb(253, 253, 220);
+    text-align:center;
+    height: 150px;
+}
+main{
+    background-color:rgb(227, 219, 255);
+    color:rgb(20, 20, 19);
+    text-align:center;
+}
+footer{
+    background-color:rgb(68, 59, 97);
+    color:rgb(253, 253, 220);
+    text-align:center;
+    height: 50px;
+}
